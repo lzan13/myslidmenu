@@ -4,4 +4,7 @@
 
 而菜单的打开与关闭，实际上就是操作上层的mSlidView的滑动，当需要打开菜单时，让mSlidView向右边滑动，如果要关闭menu，就再让它滑回来!
 
+为了使在2.+的设备上能够使用actionbar引入了这个开源框架[https://github.com/JakeWharton/ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
+
 ![image](http://image142-c.poco.cn/mypoco/myphoto/20130523/17/6478137120130523170141058.png)
+
